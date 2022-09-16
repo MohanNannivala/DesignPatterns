@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fc9c2d8-4633-49a9-a4f3-82e6a212e103" name="Changes" comment="Final builder design">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3fc9c2d8-4633-49a9-a4f3-82e6a212e103" name="Changes" comment="Final builder design" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,16 +29,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.22413793"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.22413793&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="version_2_Class" />
@@ -49,7 +47,7 @@
   <component name="RunManager" selected="Application.version_3_BuilderDesign.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="version_2_Class.Client" />
-      <module name="BuilderDesignPattern" />
+      <module name="DesignPattern" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="version_2_Class.*" />
@@ -62,7 +60,7 @@
     </configuration>
     <configuration name="Clint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="version_1_HashMap.Clint" />
-      <module name="BuilderDesignPattern" />
+      <module name="DesignPattern" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="version_1_HashMap.*" />
@@ -75,13 +73,26 @@
     </configuration>
     <configuration name="version_3_BuilderDesign.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="version_3_BuilderDesign.Client" />
-      <module name="BuilderDesignPattern" />
+      <module name="DesignPattern" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="version_3_BuilderDesign.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="DesignPattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="DesignPattern" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -103,6 +114,7 @@
       <option name="presentableId" value="Default" />
       <updated>1663325336439</updated>
       <workItem from="1663325337570" duration="6753000" />
+      <workItem from="1663355369453" duration="215000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1663327107724</created>
@@ -118,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663354493109</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Final builder design">
+      <created>1663355476925</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663355476925</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
