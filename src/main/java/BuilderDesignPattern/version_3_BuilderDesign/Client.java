@@ -1,4 +1,4 @@
-package version_3_BuilderDesign;
+package BuilderDesignPattern.version_3_BuilderDesign;
 
 public class Client {
     public static void main(String[] args) {

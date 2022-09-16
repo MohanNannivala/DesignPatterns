@@ -1,4 +1,4 @@
-package version_1_HashMap;
+package BuilderDesignPattern.version_1_HashMap;
 
 import java.util.HashMap;
 

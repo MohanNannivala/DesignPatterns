@@ -1,4 +1,4 @@
-package version_2_Class;
+package BuilderDesignPattern.version_2_Class;
 
 import java.security.InvalidParameterException;
 

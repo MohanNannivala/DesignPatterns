@@ -1,4 +1,4 @@
-package version_3_BuilderDesign;
+package BuilderDesignPattern.version_3_BuilderDesign;
 
 import java.security.InvalidParameterException;
 
